@@ -1,0 +1,19 @@
+.door {
+    display: inline-block;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  
+  .selected {
+    background-color: lightblue;
+  }
+  
+  .revealed {
+    background-color: lightcoral;
+  }
+  
+  .car {
+    background-color: lightgreen;
+  }
