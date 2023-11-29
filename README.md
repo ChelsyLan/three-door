@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Assignment for CS5002 @NEU
+Assignment for CS5002 @NEU 23fall
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
